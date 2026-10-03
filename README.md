@@ -61,4 +61,5 @@ excel/     shop_dashboard_demo.xlsx
 
 ## About me
 
-Munira Momoh, data analyst based in Lagos, Nigeria. Skills: Excel (Power Query, Pivot Tables), Power BI, SQL, Python. [Add your LinkedIn link here]
+Munira Momoh, data analyst based in Lagos, Nigeria. Skills: Excel (Power Query, Pivot Tables), Power BI, SQL, Python.
+https://www.linkedin.com/in/momohmunira
